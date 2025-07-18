@@ -31,11 +31,6 @@ To understand and implement various types of data visualizations in Python using
 | Pandas | Simplified plotting with dataframes |
 | NumPy | Data generation and array operations |
 
-Install them via pip if needed:
-```bash
-pip install matplotlib pandas numpy
-
-
 
 #  AQI Measurement Task (Intermediate) - Data Science Domain
 
